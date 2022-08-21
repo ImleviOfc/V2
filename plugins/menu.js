@@ -509,25 +509,25 @@ const listMessage = {
                 },
                 {
                     urlButton: {
-                        displayText: 'Group Official',
+                        displayText: '𝙶𝚁𝙾𝚄𝙿 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻',
                         url: sgc
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Owner',
+                        displayText: '𝙾𝚆𝙽𝙴𝚁',
                         id: '.owner'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Speed',
+                        displayText: '𝚂𝙿𝙴𝙴𝙳',
                         id: '.ping'
                     }
                 },
                 {
                     quickReplyButton: {
-                        displayText: 'Donasi',
+                        displayText: '𝙳𝙾𝙽𝙰𝚂𝙸',
                         id: '.donasi'
                     }
                 },
